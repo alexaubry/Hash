@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "999A8A9B480A7CE71C140C8224376BE2AC2BDA2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "999A8A9B480A7CE71C140C8224376BE2AC2BDA2C" : 9223372036854775807,
+    "9A7CC8BEC6308D0C51E832D11B23A54974C29A76" : 9223372036854775807,
+    "319A06C3AD9300930B3D85FBB455AF63191D4CFF" : 9223372036854775807,
+    "0BF395CD26243B92AE575E8B1BF09EAA11CAC9E3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7168C31C-F601-416F-B885-D6A3759EB0F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "999A8A9B480A7CE71C140C8224376BE2AC2BDA2C" : "Hash\/",
+    "9A7CC8BEC6308D0C51E832D11B23A54974C29A76" : "Hash\/Packages\/BytesKit-1.0.0\/",
+    "319A06C3AD9300930B3D85FBB455AF63191D4CFF" : "Hash\/Packages\/CryptoError-1.0.0\/",
+    "0BF395CD26243B92AE575E8B1BF09EAA11CAC9E3" : "Hash\/Packages\/CryptoLoader-1.0.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hash",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hash.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexaubry\/CryptoLoader",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0BF395CD26243B92AE575E8B1BF09EAA11CAC9E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexaubry\/CryptoError",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "319A06C3AD9300930B3D85FBB455AF63191D4CFF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexaubry\/Hash",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "999A8A9B480A7CE71C140C8224376BE2AC2BDA2C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexaubry\/BytesKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A7CC8BEC6308D0C51E832D11B23A54974C29A76"
+    }
+  ]
+}
