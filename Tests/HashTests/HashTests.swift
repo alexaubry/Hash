@@ -33,6 +33,7 @@
  */
 
 import XCTest
+import Foundation
 @testable import Hash
 
 class HashTests: XCTestCase {
